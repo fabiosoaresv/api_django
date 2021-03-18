@@ -17,7 +17,7 @@ $ pip3 install djangorestframework
 
 # Configuração
 ```console
-python3 manage.py runserver
+$ python3 manage.py runserver
 ```
 # Referências
 - https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
